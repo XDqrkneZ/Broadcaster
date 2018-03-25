@@ -1,0 +1,12 @@
+name: Broadcaster
+main: broadcast.Main
+api: "1.0.0"
+version: "1.0.0"
+author: dxrknez
+commands:
+ broadcast:
+  permission: broadcast.command
+  description: "Broadcast command"
+permissions:
+ broadcast.command:
+  default: op
