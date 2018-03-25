@@ -5,6 +5,7 @@ version: "1.0.0"
 author: dxrknez
 commands:
  broadcast:
+  aliaes: [broadcaster]
   permission: broadcast.command
   description: "Broadcast command"
 permissions:
